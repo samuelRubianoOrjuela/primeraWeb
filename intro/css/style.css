@@ -1,0 +1,19 @@
+.titulo{
+    color: navy;
+}
+.subtitulo{
+    margin: 0 auto;
+    color: blue;
+}
+.txt {
+    margin: 0 auto;
+    color: white;
+    background-color: blue;
+    width: 300px;
+    padding: auto;
+    border: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: cadetblue;    
+    box-shadow: 5px 5px navy;
+}
